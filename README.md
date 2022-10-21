@@ -4,7 +4,7 @@ Layout Responsivo
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Apeoeria**
+| :sparkles: Nome        | **Apeperia**
 | :label: Tecnologias | Html, Css
 | :rocket: URL         | https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=0%3A1
 | :fire: Desafio     | https://cursos.alura.com.br/course/mobile-first-layouts-responsivos
